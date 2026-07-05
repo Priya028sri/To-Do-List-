@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: #f5f5dc;
+}
+
+h1{
+  color: #691d1d;
+  text-align: center;
+  margin-top: 20px;
+}
+
+#input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h3{
+  padding:20px;
+}
+
+button{
+  background: #691d1dbf;
+  color: white;
+  padding: 5px;
+  border-radius: 10px;
+  border: none;
+}
+
+input{
+  padding: 5px;
+  margin-right: 3px;
+}
+
+#box{
+  padding-left:50px;
+  padding-top: 20px;
+  padding-right:50px;
+}
